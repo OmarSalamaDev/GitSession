@@ -19,8 +19,7 @@ void fibonacci(int n)
 
 int main()
 {
-    int n;
-    std::cin >> n;
+    int n = 10;
     fibonacci(n);
     return 0;
 }
